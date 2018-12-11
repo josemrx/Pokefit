@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pokéfit</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Pokéfit App</string>
+    <string name="nav_header_subtitle">José Antonio Pérez Guerrero</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">2DAM 2018/2019</string>
+    <string name="title_activity_actividad_types">Lista de Tipos</string>
+    <string name="title_activity_actividad_ver_pokemon">Ver Pokémon</string>
+    <string name="title_activity_actividad_abilities">Lista de Habilidades</string>
+</resources>
